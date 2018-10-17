@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "eslint": "^5.7.0",
+    "eslint-config-es3": "^1.0.0"
+  }
+}

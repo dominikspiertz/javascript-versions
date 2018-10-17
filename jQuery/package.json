@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "eslint": "^5.7.0",
+    "eslint-config-jquery": "^1.0.1"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
